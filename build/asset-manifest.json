@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random-Quote-Generator/static/css/main.fb7f095d.chunk.css",
+    "main.js": "/Random-Quote-Generator/static/js/main.88accb89.chunk.js",
+    "main.js.map": "/Random-Quote-Generator/static/js/main.88accb89.chunk.js.map",
+    "runtime~main.js": "/Random-Quote-Generator/static/js/runtime~main.618461f0.js",
+    "runtime~main.js.map": "/Random-Quote-Generator/static/js/runtime~main.618461f0.js.map",
+    "static/js/2.8ac72928.chunk.js": "/Random-Quote-Generator/static/js/2.8ac72928.chunk.js",
+    "static/js/2.8ac72928.chunk.js.map": "/Random-Quote-Generator/static/js/2.8ac72928.chunk.js.map",
+    "index.html": "/Random-Quote-Generator/index.html",
+    "precache-manifest.54ca3c5b7a0aba1f8635ff3ecb7d508f.js": "/Random-Quote-Generator/precache-manifest.54ca3c5b7a0aba1f8635ff3ecb7d508f.js",
+    "service-worker.js": "/Random-Quote-Generator/service-worker.js",
+    "static/css/main.fb7f095d.chunk.css.map": "/Random-Quote-Generator/static/css/main.fb7f095d.chunk.css.map"
+  }
+}
