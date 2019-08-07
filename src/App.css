@@ -1,0 +1,13 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #119fd8;
+  font-family: 'Roboto Slab', serif;
+}
+
+.app {
+  width: 70%;
+  margin: 5rem auto;
+}
