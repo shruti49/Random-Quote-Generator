@@ -15,14 +15,13 @@ export default class QuoteBox extends Component {
     return (
       <div id='quote-box' className='quote-container'>
         <div className='quote-button'>
-          <a
+          <button
             id='new-quote'
             className='quote-button__link quote-button__link--1'
             onClick={this.props.fetchData}
-            href="#"
           >
             <FontAwesomeIcon icon={faSyncAlt} /> New Quote
-          </a>
+          </button>
           <a
             id='tweet-quote'
             className='quote-button__link quote-button__link--2'
