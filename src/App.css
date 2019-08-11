@@ -5,6 +5,7 @@ html {
 body {
   background: #119fd8;
   font-family: 'Roboto Slab', serif;
+  box-sizing: border-box;
 }
 
 .app {

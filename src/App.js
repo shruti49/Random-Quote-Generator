@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 import Header from './components/Header/Header.component';
-import QuoteBox from './components/QuoteBox.component';
+import QuoteBox from './components/QuoteBox/QuoteBox.component';
 
 export default class App extends Component {
   state = {
