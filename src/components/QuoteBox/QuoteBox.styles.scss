@@ -86,3 +86,9 @@ $default-fontSize: 2rem;
     margin-top: 1.5rem;
   }
 }
+
+@media only screen and (max-width: 400px){
+  .quote-container {
+  width: 80%;
+  }
+}
